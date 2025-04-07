@@ -1,7 +1,7 @@
 ---
 layout: default
 title: test
-rank: 2
+rank: 4
 ---
 
 #test
