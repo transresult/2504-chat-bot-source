@@ -1,3 +1,7 @@
+
+---
+title: Anwesenheit, Abwesenheit Unterrichtsausfall und Schulpflicht
+---
 | Übersicht | |
 | --- | --- |
 | Seite betrifft Preschool | nein |
