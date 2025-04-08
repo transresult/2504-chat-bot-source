@@ -1,4 +1,3 @@
-
 ---
 title: Anwesenheit, Abwesenheit Unterrichtsausfall und Schulpflicht
 ---
@@ -18,9 +17,9 @@ Alle Mitglieder der accadis ISB Community, Eltern, Schüler und Lehrer, arbeiten
 
 ## Pünktlichkeit 
 
-Die Anwesenheit wird vom [Klassenlehrer](/ISB-Eltern-wiki/de/Klassenleitung_und_Fachlehrer) während des Homerooms geprüft (08:15 Uhr – 08:30 Uhr). Es wird erwartet, dass die Schüler pünktlich um 08:15 Uhr im Homeroom erscheinen, wo wichtige Informationen für den Tagesablauf gegeben werden.
+Die Anwesenheit wird vom Klassenlehrer während des Homerooms geprüft (08:15 Uhr – 08:30 Uhr). Es wird erwartet, dass die Schüler pünktlich um 08:15 Uhr im Homeroom erscheinen, wo wichtige Informationen für den Tagesablauf gegeben werden.
 
-Unpünktlichkeit ist nicht akzeptabel. Jeder Schüler, der zu spät kommt, wird als verspätet in die Anwesenheitsliste eingetragen und dies wird im [Zeugnis](/ISB-Eltern-wiki/de/Leistungsbewertung_und_Zeugnisse) vermerkt.
+Unpünktlichkeit ist nicht akzeptabel. Jeder Schüler, der zu spät kommt, wird als verspätet in die Anwesenheitsliste eingetragen und dies wird im Zeugnis vermerkt.
 
 ## Warum ist die regelmäßige Teilnahme am Unterricht so wichtig? 
 
@@ -32,19 +31,19 @@ Unpünktlichkeit ist nicht akzeptabel. Jeder Schüler, der zu spät kommt, wird 
 
 ## Abwesenheit 
 
-Eltern sind dazu verpflichtet, dafür zu sorgen, dass ihr Kind regelmäßig am Unterricht teilnimmt, es sei denn die Abwesenheit ist unvermeidlich. Eltern werden zum Ende beider Schulhalbjahre über die Fehlzeiten ihres Kindes im Rahmen der [Zeugnisse](/ISB-Eltern-wiki/de/Leistungsbewertung_und_Zeugnisse) informiert.
+Eltern sind dazu verpflichtet, dafür zu sorgen, dass ihr Kind regelmäßig am Unterricht teilnimmt, es sei denn die Abwesenheit ist unvermeidlich. Eltern werden zum Ende beider Schulhalbjahre über die Fehlzeiten ihres Kindes im Rahmen der Zeugnisse informiert.
 
 ## Krankmeldung 
 
 Bitte schicken Sie Ihr Kind im Falle einer Krankheit nicht in die Schule.
 
-Um uns über die Abwesenheiten Ihres Kindes zu informieren, benutzen Sie bitte ausschließlich das [Online-Formular](https://accadis.eu/schueler-abmelden).
+Um uns über die Abwesenheiten Ihres Kindes zu informieren, benutzen Sie bitte ausschließlich das Online-Formular (https://accadis.eu/schueler-abmelden).
 
 Ihre Meldung muss **bis spätestens 08:15 Uhr** bei uns eingehen.
 
 Ist Ihr Kind an einer ansteckenden Krankheit erkrankt (z. B. Windpocken, Kopfläuse, Streptokokken, Scharlach), sind Sie verpflichtet, dies im Online Formular anzugeben.
 
--   Bitte informieren Sie die Schule am ersten Tag der Abwesenheit und an jedem folgenden Tag. Hierfür bitte ausschließlich das [Online-Formular](https://accadis.eu/schueler-abmelden) verwenden. Rufen Sie deshalb bitte nicht bei der Schule an, um die Abwesenheit mitzuteilen.
+-   Bitte informieren Sie die Schule am ersten Tag der Abwesenheit und an jedem folgenden Tag. Hierfür bitte ausschließlich das Online-Formular(https://accadis.eu/schueler-abmelden) verwenden. Rufen Sie deshalb bitte nicht bei der Schule an, um die Abwesenheit mitzuteilen.
 
 -   Die Schule behält sich vor, bei häufiger Abwesenheit ein ärztliches Attest zu fordern.
 
@@ -54,7 +53,7 @@ Falls Ihr Kind nicht in der Schule erscheint und wir nichts von Ihnen gehört ha
 
 ## Verspätete Ankunft oder vorzeitiges Verlassen der Schule wegen Arzttermin 
 
-Bitte benutzen Sie ausschließlich das [Online-Formular](https://accadis.eu/schueler-abmelden), um uns über die verspätete Ankunft oder die Notwendigkeit des früheren [Abholens](/ISB-Eltern-wiki/de/Bringen_und_Abholen) zu informieren. Ihre Meldung **muss spätestens am Vortag** bei uns eingegangen sein.
+Bitte benutzen Sie ausschließlich das Online-Formular (https://accadis.eu/schueler-abmelden), um uns über die verspätete Ankunft oder die Notwendigkeit des früheren Abholens zu informieren. Ihre Meldung **muss spätestens am Vortag** bei uns eingegangen sein.
 
 Bitte beachten Sie, dass in der Elementary School eine **frühere Abholung immer nur zu Beginn der Frühstücks- oder Mittagspause möglich** ist. In der Secondary School ist eine Abholung neben den Pausenzeiten auch zum Ende jeder Unterrichtsstunde möglich.
 
@@ -80,7 +79,7 @@ Mit Ausnahme von Notfällen oder Krankheit sind die Schulleitung oder der Klasse
 
 In begründeten Ausnahmefällen besteht die Möglichkeit, die Freistellung eines Schülers von der Schule zu beantragen. Es liegt im Ermessen der Schulleitung, ob eine Freistellung gewährt wird.
 
-Für eine Freistellung von bis zu zwei Schultagen ist der Antrag an den Klassenlehrer über das [Online-Formular](https://accadis.eu/schueler-abmelden) zu richten.
+Für eine Freistellung von bis zu zwei Schultagen ist der Antrag an den Klassenlehrer über das Online-Formular (https://accadis.eu/schueler-abmelden) zu richten.
 
 Bei einer Freistellung von mehr als zwei Tagen oder von Tagen, die direkt vor oder im Anschluss an Ferienzeiten fallen, muss der Antrag spätestens vier Wochen vor dem Beginn der Freistellung schriftlich bei der Schulleitung gestellt werden.
 
@@ -103,7 +102,7 @@ Ein Schüler gilt als ‚häufig abwesend‘, wenn seine Anwesenheitsquote Anlas
 
 **Falls ein Schüler mehr als 18 Tage im Schuljahr abwesend ist, kann dies dazu führen, dass die Versetzung in die nächst höhere Jahrgangsstufe gefährdet ist.**
 
-Alle Fehlzeiten, entschuldigt oder unentschuldigt, werden auf dem [Zeugnis](/ISB-Eltern-wiki/de/Leistungsbewertung_und_Zeugnisse "Leistungsbewertung und Zeugnisse") dokumentiert.
+Alle Fehlzeiten, entschuldigt oder unentschuldigt, werden auf dem Zeugnis dokumentiert.
 
 ## Außerplanmäßiger Unterrichtsausfall 
 

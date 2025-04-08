@@ -7,11 +7,9 @@ title: accadis bildung
 | Seite betrifft Elementary School | ja |
 | Seite betrifft Secondary School | ja |
 
-Seit 1980 Jahren verfolgt accadis einen ganzheitlichen Bildungsansatz. Internationalität, Fremdsprachen, wissenschaftliche Fundierung, Praxisbezug und Persönlichkeitsentwicklung ziehen sich wie ein roter Faden durch alle Bereiche und Bildungsstufen, von der Preschool über die Elementary School und der Secondary School mit International Baccalaureate an der accadis ISB, zum Hochschulabschluss und der Promotion an der accadis Hochschule. Das Unternehmen liegt traditionell und wertebewusst in Familienhand, ohne Investor oder Kette. [Qualität](/ISB-Eltern-wiki/de/Qualit%C3%A4tssicherung "Qualitätssicherung") und Wissenschaftlichkeit stehen im Mittelpunkt der Arbeit.
+Seit 1980 Jahren verfolgt accadis einen ganzheitlichen Bildungsansatz. Internationalität, Fremdsprachen, wissenschaftliche Fundierung, Praxisbezug und Persönlichkeitsentwicklung ziehen sich wie ein roter Faden durch alle Bereiche und Bildungsstufen, von der Preschool über die Elementary School und der Secondary School mit International Baccalaureate an der accadis ISB, zum Hochschulabschluss und der Promotion an der accadis Hochschule. Das Unternehmen liegt traditionell und wertebewusst in Familienhand, ohne Investor oder Kette. Qualitätssicherung und Wissenschaftlichkeit stehen im Mittelpunkt der Arbeit.
 
 **accadis, ad campum discere, an einem Ort lernen: Das ist unser Leitsatz.**
-
-[![](/ISB-Eltern-wiki/de/images/thumb/1/10/Bildungsansatz-accadis.jpg/300px-Bildungsansatz-accadis.jpg)](/ISB-Eltern-wiki/de/Datei:Bildungsansatz-accadis.jpg)
 
 ## Institutionen 
 
@@ -33,7 +31,7 @@ An der accadis ISB arbeiten Lehrkräfte, Erzieher und pädagogische Mitarbeiter 
 
 Die Lehrkräfte unterrichten jeweils in ihrer Muttersprache bzw. sie beherrschen ihre Unterrichtssprache auf muttersprachlichem Niveau.
 
-Weiterhin stellt accadis ISB jedes Jahr verschiedene Assistenten, z. B. Sozialpädagogen, Sozial-Assistenten, Assistenten die einen Bundesfreiwilligendienst oder ein Freiwilliges Soziales Jahr absolvieren, ein. Die Assistenten unterstützen die Fachlehrkräfte in einigen Fächern, wie [Sport](/ISB-Eltern-wiki/de/Sportunterricht_und_Schwimmen "Sportunterricht und Schwimmen") oder Kunst bzw. helfen in der Eingangsstufe (Primary Class) und bei weiteren Aufgaben in der Schule aus.
+Weiterhin stellt accadis ISB jedes Jahr verschiedene Assistenten, z. B. Sozialpädagogen, Sozial-Assistenten, Assistenten die einen Bundesfreiwilligendienst oder ein Freiwilliges Soziales Jahr absolvieren, ein. Die Assistenten unterstützen die Fachlehrkräfte in einigen Fächern, wie Sportunterricht und Schwimmen oder Kunst bzw. helfen in der Eingangsstufe (Primary Class) und bei weiteren Aufgaben in der Schule aus.
 
 ### Qualitätssicherung an der accadis ISB 
 
@@ -51,4 +49,4 @@ International, praxisorientiert und mit modularem Curriculum – dies zeichnet d
 
 Das integrierte Auslandsstudium an einer der neun Partneruniversitäten auf drei Kontinenten, intensiver Sprachunterricht sowie Vorlesungen in englischer Sprache während der gesamten Studiendauer machen accadis zu einer der führenden Business Schools in Deutschland. Praxis- und Projektphasen in Unternehmen mit wissenschaftlicher Betreuung durch Dozenten und die intensive Unterstützung bei Bewerbungen für Praktika und den Berufseinstieg durch das accadis Career Center sorgen für eine besondere Vernetzung mit der Praxis. Die besondere Atmosphäre der accadis Hochschule beruht vor allem auf kleinen Studiengruppen, der individuellen Betreuung der Studierenden, sowohl durch die Dozenten als auch durch die Hochschulverwaltung und einer herausragenden Infrastruktur sowie modernen Ausstattung.
 
-Für weitere Informationen besuche Sie die [Homepage](https://www.accadis.com/) der accadis Hochschule Bad Homburg.
+Für weitere Informationen besuche Sie die Homepage (https://www.accadis.com/) der accadis Hochschule Bad Homburg.

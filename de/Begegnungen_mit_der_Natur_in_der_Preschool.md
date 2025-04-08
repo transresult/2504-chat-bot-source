@@ -1,5 +1,5 @@
 ---
-title: Begegnungen_mit_der_Natur_in_der_Preschool
+title: Begegnungen mit der Natur in der Preschool
 ---
 | Übersicht | |
 | --- | --- |

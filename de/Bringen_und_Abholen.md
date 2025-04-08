@@ -1,3 +1,6 @@
+---
+title: Bringen und Abholen
+---
 | Übersicht | |
 | --- | --- |
 | Seite betrifft Preschool | ja |
@@ -23,9 +26,9 @@ Möchten sie ihr Kind früher abholen, kommen sie bitte pünktlich zur ausgemach
 
 Wir sind gern für Ihre Kinder bis 15:15 Uhr da, danach endet die Betreuungszeit in den Gruppen. Benötigen Sie eine Betreuung über die Regelöffnungszeiten hinaus, geben Sie bitte bei Vertragsabschluss an, an welchen Tagen Ihr Kind eine Betreuung bis 16:55 Uhr benötigt. Bitte holen Sie Ihr Kind stets pünktlich ab. Immer wiederkehrende Unpünktlichkeit wird zu einem Ausschluss aus dem Betreuungsprogramm führen.
 
-Der accadis Preschool-Tag endet zwischen 14:50 und 16:55 Uhr. Damit endet auch die [Aufsichtspflicht](/ISB-Eltern-wiki/de/Aufsicht "Aufsicht") der accadis Preschool, je nach Abholprogramm spätestens um 16:55 Uhr. Es ist wichtig, dass Sie Ihr Kind pünktlich und zuverlässig abholen.
+Der accadis Preschool-Tag endet zwischen 14:50 und 16:55 Uhr. Damit endet auch die Aufsichtspflicht der accadis Preschool, je nach Abholprogramm spätestens um 16:55 Uhr. Es ist wichtig, dass Sie Ihr Kind pünktlich und zuverlässig abholen.
 
-Bitte geben Sie im Pick-up-Formular an, welcher Personen berechtigt sind, Ihr Kind abzuholen ( [Abholformular für Kinder der Preschool - Pick-up Form for Preschool Children](/ISB-Eltern-wiki/de/images/5/5b/Abholformular_f%C3%BCr_Kinder_der_Preschool_-_Pick-up_Form_for_Preschool_Children.pdf "Abholformular für Kinder der Preschool - Pick-up Form for Preschool Children.pdf") ). Falls Ihr Kind von einem anderen Elternteil abgeholt wird, teilen Sie den Gruppenerziehern dies rechtzeitig persönlich oder über das Onlineformular mit.
+Bitte geben Sie im Pick-up-Formular an, welcher Personen berechtigt sind, Ihr Kind abzuholen (Abholformular für Kinder der Preschool - Pick-up Form for Preschool Children). Falls Ihr Kind von einem anderen Elternteil abgeholt wird, teilen Sie den Gruppenerziehern dies rechtzeitig persönlich oder über das Onlineformular mit.
 
 Sollte es dennoch einmal zu einer Verspätung kommen, informieren Sie die Schule auch nach 16:00 Uhr telefonisch unter der bekannten Nummer und befolgen Sie die Anleitung der Bandansage. Sie werden entsprechend weitergeleitet. Wir bitten Sie, dass Sie Ihr Kind pünktlich abholen und Verspätungen die Ausnahme bleiben.
 
@@ -55,7 +58,7 @@ Falls Ihr Kind nach 09:00 Uhr ankommt, z. B. nach einem Arztbesuch, setzen Sie b
 
 Bitte folgen Sie beim Bringen Ihres Kindes dieser Schematik.
 
-[![Bring-Schematik](/ISB-Eltern-wiki/de/images/3/3d/Bring-Schematik_Drop_off_schematic.jpg)](/ISB-Eltern-wiki/de/Datei:Bring-Schematik_Drop_off_schematic.jpg "Bring-Schematik") [![Bring-Schematik 2](/ISB-Eltern-wiki/de/images/5/51/Bring-Schematik_2_-_Drop_off_schematic_2.jpg)](/ISB-Eltern-wiki/de/Datei:Bring-Schematik_2_-_Drop_off_schematic_2.jpg "Bring-Schematik 2")
+missing img
 
 ## Abholen der Schülerinnen und Schüler 
 
