@@ -1,5 +1,5 @@
 ---
-title: Verhalten auf dem Spielplatz vor dem Eingang der Preschool nach der Abholzeit.md
+title: Verhalten auf dem Spielplatz vor dem Eingang der Preschool nach der Abholzeit
 ---
 | Übersicht | |
 | --- | --- |
