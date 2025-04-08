@@ -1,3 +1,6 @@
+---
+title: Ernährung und Schulessen
+---
 | Übersicht | |
 | --- | --- |
 | Seite betrifft Preschool | ja |
@@ -14,7 +17,7 @@ Unser Schulgetränk ist Wasser. In der accadis ISB gibt es Wasserspender. Wenn S
 
 ## Catering 
 
-An der accadis ISB legen wir Wert auf das gemeinsame Mittagessen der Kinder; daher ist die Teilnahme am Mittagessen von FPS Pflicht. Für die Schüler der 11. und 12. Klassen besteht ein flexibles Voucher-System. Die Voucher können nur über diesen [Link](https://www.fps-catering.de/onlineformular-accadis-voucher) direkt bei FPS Catering bestellt werden. Ihr Vertragspartner für das Mittagessen ist FPS GmbH & Co. KG. Bei Fragen oder Anregungen zum Mittagessen senden Sie bitte eine [E-Mail](mailto:team-schulekita@fps-catering.de).
+An der accadis ISB legen wir Wert auf das gemeinsame Mittagessen der Kinder; daher ist die Teilnahme am Mittagessen von FPS Pflicht. Für die Schüler der 11. und 12. Klassen besteht ein flexibles Voucher-System. Die Voucher können nur über diesen https://www.fps-catering.de/onlineformular-accadis-voucher direkt bei FPS Catering bestellt werden. Ihr Vertragspartner für das Mittagessen ist FPS GmbH & Co. KG. Bei Fragen oder Anregungen zum Mittagessen senden Sie bitte eine E-Mail (team-schulekita@fps-catering.de).
 
 Seit 1978 arbeitet FPS Catering erfolgreich im Bereich der Schul- und Kitaverpflegung. Als erste Catering-Firma im Rhein-Main-Gebiet verfügte FPS Catering über ein EU-Bio-Zertifikat. Das Unternehmen legt zudem großen Wert auf die Verwendung von regionalen Produkten.
 
@@ -24,10 +27,10 @@ Bei der Zusammenstellung der Gerichte orientiert sich FPS Catering an den Empfeh
 
 Ein gesundes zuckerfreies Frühstück ist besonders für Kinder ungemein wichtig. Vitalstoffe, Vitamine, Mineralstoffe, Ballaststoffe, Enzyme und Spurenelemente unterstützen das Wachstum, schenken starke Nerven und helfen bei der Konzentration. Ein ausgewogenes, gesundes zuckerfreies Frühstück gibt die nötige Energie für die täglichen Aktivitäten. Vor allem Kinder, die sich noch in der Wachstumsphase befinden, sind darauf angewiesen, regelmäßig ihren Energievorrat wieder aufzufüllen. „Eine Kombination aus Brot, frischem Obst oder Gemüserohkost sowie ein Milchprodukt bietet genau das Richtige“, empfiehlt die Deutsche Gesellschaft für Ernährung (DGE).
 
-Fruchtquetschi, zuckerhaltiger Joghurt, Joghurtdrink, Banane, Süßigkeiten, Kaffeestückchen und Kuchen sind ungeeignet zum Frühstück und **werden wieder von uns nach Hause gesendet**. Wir bitten darum, dass Sie Ihrem Kind ein gesundes Frühstück einpacken und uns dadurch in unserer Arbeit unterstützen. Unser Ziel ist es, dass die Kinder bewusst erfahren, wie wichtig ein gesundes Frühstück ist und es als selbstverständlich betrachten. Zudem stärkt es das Gemeinschaftsgefühl der Gruppe, wenn alle Kinder ein gesundes Frühstück haben und keiner Süßigkeiten mitbringt. Ausnahmen sind hier [Geburtstagsfeiern](/ISB-Eltern-wiki/de/Kindergeburtstage "Kindergeburtstage") der Kinder.
+Fruchtquetschi, zuckerhaltiger Joghurt, Joghurtdrink, Banane, Süßigkeiten, Kaffeestückchen und Kuchen sind ungeeignet zum Frühstück und **werden wieder von uns nach Hause gesendet**. Wir bitten darum, dass Sie Ihrem Kind ein gesundes Frühstück einpacken und uns dadurch in unserer Arbeit unterstützen. Unser Ziel ist es, dass die Kinder bewusst erfahren, wie wichtig ein gesundes Frühstück ist und es als selbstverständlich betrachten. Zudem stärkt es das Gemeinschaftsgefühl der Gruppe, wenn alle Kinder ein gesundes Frühstück haben und keiner Süßigkeiten mitbringt. Ausnahmen sind hier Geburtstagsfeiern der Kinder.
 
 ## Mittagessen in der Elementary School 
 
-Während der Mittagspause führt eine Person in der Cafeteria [Aufsicht](/ISB-Eltern-wiki/de/Aufsicht "Aufsicht"), hilft den Kindern beim Tragen des Tabletts und achtet auf angemessene Tischmanieren. Es soll weiterhin darauf geachtet werden, dass die Kinder ihre Jacken und Mützen an die Garderobe hängen, wenn sie essen.
+Während der Mittagspause führt eine Person in der Cafeteria Aufsicht, hilft den Kindern beim Tragen des Tabletts und achtet auf angemessene Tischmanieren. Es soll weiterhin darauf geachtet werden, dass die Kinder ihre Jacken und Mützen an die Garderobe hängen, wenn sie essen.
 
 Die verschiedenen Bereiche des Schulhofs (Klettergerüst, Fußballfeld, Bereich vor der Cafeteria) werden von Lehrkräften und Hilfskräften gemäß der Aufsichtsverordnung (AufsVO) beaufsichtigt.
