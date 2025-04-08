@@ -1,5 +1,5 @@
 ---
-title: 
+title: Nachmittagsbetreuung und -kurse
 ---
 | Übersicht | |
 | --- | --- |
@@ -17,7 +17,7 @@ Die After School Student Care ist die Nachmittagsbetreuung für Schülerinnen un
 
 ## Nachmittagskurse 
 
-Wir bieten vielfältige Nachmittagskurse nach Schulschluss bis maximal 17:00 Uhr an. Die aktuelle Übersicht finden Sie im Downloadbereich des Elternportals. Details zu den Kursinhalten und Konditionen sowie die AGBs entnehmen Sie bitte den Beschreibungen im [Online-Shop](https://shop.accadis-isb.com/). Hierüber findet auch die Anmeldung statt.
+Wir bieten vielfältige Nachmittagskurse nach Schulschluss bis maximal 17:00 Uhr an. Die aktuelle Übersicht finden Sie im Downloadbereich des Elternportals. Details zu den Kursinhalten und Konditionen sowie die AGBs entnehmen Sie bitte den Beschreibungen im Online-Shop (https://shop.accadis-isb.com/). Hierüber findet auch die Anmeldung statt.
 
 ## Telefonische Erreichbarkeit nach 16:00 Uhr 
 

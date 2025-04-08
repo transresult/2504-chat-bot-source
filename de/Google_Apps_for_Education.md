@@ -1,5 +1,5 @@
 ---
-title: 
+title: Google Apps for Education
 ---
 | Übersicht | |
 | --- | --- |
@@ -9,7 +9,7 @@ title:
 
 ## Google Apps for Education 
 
-accadis ISB nutzt das in Schulen weit verbreitete Google Apps for Education System. Dieses System beinhaltet eine Vielzahl von Funktionen und bietet Vorteile für Lehrer und Schüler. Die Schüler werden an das System im Rahmen des IT-Unterrichts und auch durch die [Fachlehrer](/ISB-Eltern-wiki/de/Klassenleitung_und_Fachlehrer "Klassenleitung und Fachlehrer") herangeführt.
+accadis ISB nutzt das in Schulen weit verbreitete Google Apps for Education System. Dieses System beinhaltet eine Vielzahl von Funktionen und bietet Vorteile für Lehrer und Schüler. Die Schüler werden an das System im Rahmen des IT-Unterrichts und auch durch die Klassenleitung und Fachlehrer herangeführt.
 
 ## Regelung E-Mail-Postfach 
 

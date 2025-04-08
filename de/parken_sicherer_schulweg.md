@@ -1,5 +1,5 @@
 ---
-title: 
+title: Parken und sicherer Schulweg
 ---
 | Übersicht | |
 | --- | --- |
@@ -35,7 +35,7 @@ Wichtig ist dabei, dass sich die Kinder und Schüler während der Unterrichtszei
 
 Die accadis International School befindet sich auf dem SÜDCAMPUS Bad Homburg im Stadtteil Ober-Eschbach. Hier finden Sie eine Übersicht des accadis ISB Geländes. Alle Parkplätze und Eingänge für die Preschool, Elementary School und Secondary School sind dort eingezeichnet.
 
-[![Übersicht Schulgelände](/ISB-Eltern-wiki/de/images/f/fc/Uebersicht_Schulgelaende_-_Overview_School_Premises.jpg)](/ISB-Eltern-wiki/de/Datei:Uebersicht_Schulgelaende_-_Overview_School_Premises.jpg "Übersicht Schulgelände")
+Übersicht Schulgelände
 
 ## Sicheres Betreten und Verlassen des Schulgeländes 
 

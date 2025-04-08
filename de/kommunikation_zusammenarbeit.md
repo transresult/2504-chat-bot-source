@@ -1,5 +1,5 @@
 ---
-title: 
+title: Kommunikation und Zusammenarbeit
 ---
 | Übersicht | |
 | --- | --- |
@@ -7,9 +7,9 @@ title:
 | Seite betrifft Elementary School | ja |
 | Seite betrifft Secondary School | ja |
 
-Das accadis ISB Office ist montags bis freitags von **07:30 bis 16:00 Uhr** erreichbar. Sie erreichen uns per E-Mail unter [office@accadis-isb.com](mailto:office@accadis-isb.com) oder telefonisch unter +49 6172 9841-41. In Notfällen steht Ihnen auch die Zentrale der accadis Hochschule unter +49 6172 9842-0 zur Verfügung.
+Das accadis ISB Office ist montags bis freitags von **07:30 bis 16:00 Uhr** erreichbar. Sie erreichen uns per E-Mail unter office@accadis-isb.com oder telefonisch unter +49 6172 9841-41. In Notfällen steht Ihnen auch die Zentrale der accadis Hochschule unter +49 6172 9842-0 zur Verfügung.
 
-In unserem [Elternportal](/ISB-Eltern-wiki/de/Elternportal "Elternportal") ([www.parents.accadis-isb.net](http://www.parents.accadis-isb.net/)) finden Sie alle aktuellen Informationen. Einen Zugang erhalten Sie beim Eintritt Ihres Kindes in die accadis ISB. Bei technischen Problemen oder Fragen senden Sie bitte ein E-Mail an [it-support@accadis.com](mailto:it-support@accadis.com).
+In unserem Elternportal (www.parents.accadis-isb.net) finden Sie alle aktuellen Informationen. Einen Zugang erhalten Sie beim Eintritt Ihres Kindes in die accadis ISB. Bei technischen Problemen oder Fragen senden Sie bitte ein E-Mail an (it-support@accadis.com).
 
 Sie erhalten automatisch Benachrichtigungen für alle News der allgemeinen Bereiche (Preschool, Elementary oder Secondary School) und auch der Klassenbereiche.
 
@@ -20,7 +20,7 @@ Sie erhalten automatisch Benachrichtigungen für alle News der allgemeinen Berei
 ## Preschool 
 
 -   **Erzieher** | Ihr Kind innerhalb der Gruppe betreffend.
--   **[Leitung Preschool](/ISB-Eltern-wiki/de/Funktion:Principal_Preschool "Funktion:Principal Preschool")** | Gruppenübergreifende oder organisatorische Themen betreffend.
+-   **Leitung Preschool** | Gruppenübergreifende oder organisatorische Themen betreffend.
 
 ## Elementary und Secondary School 
 
@@ -28,27 +28,27 @@ Sie erhalten automatisch Benachrichtigungen für alle News der allgemeinen Berei
 
 -   **Fachlehrkraft** | Ihr Kind in einem Fach betreffend; Fach- oder Kursinformationen, Unterrichtsmaterial und -anforderungen, Hausaufgaben, Informationen zum Lehrplan, Fortschritte Ihres Kindes.
 
--   **[Administrative Deputy Head](/ISB-Eltern-wiki/de/Funktion:Administrative_Deputy_Head "Funktion:Administrative Deputy Head")** | Schulorganisatorische Themen betreffend; Fragen zum Schulbesuch und zur Schulpflicht, Organisation von Klassenfahrten und Ausflügen, Verbindung zur PTA.
+-   **Administrative Deputy Head** | Schulorganisatorische Themen betreffend; Fragen zum Schulbesuch und zur Schulpflicht, Organisation von Klassenfahrten und Ausflügen, Verbindung zur PTA.
 
--   **[Academic Deputy Head](/ISB-Eltern-wiki/de/Funktion:Academic_Deputy_Head "Funktion:Academic Deputy Head")** | Akademische Themen betreffend; Fragen zum Lehrplan, zum IB und den IGCSEs.
+-   **Academic Deputy Head** | Akademische Themen betreffend; Fragen zum Lehrplan, zum IB und den IGCSEs.
 
--   **[Elementary School Coordinator](/ISB-Eltern-wiki/de/Funktion:Elementary_School_Coordinator "Funktion:Elementary School Coordinator")** | Themen in Bezug auf die Betreuung der Schülerschaft in Zusammenarbeit mit den Lehrkräften der ES. Jahrgangs- und schulübergreifende Themen und Initiativen.
+-   **Elementary School Coordinator** | Themen in Bezug auf die Betreuung der Schülerschaft in Zusammenarbeit mit den Lehrkräften der ES. Jahrgangs- und schulübergreifende Themen und Initiativen.
 
--   **[Secondary School Coordinator](/ISB-Eltern-wiki/de/Funktion:Secondary_School_Coordinator "Funktion:Secondary School Coordinator")** | Themen in Bezug auf die Betreuung der Schülerschaft in Zusammenarbeit mit den Lehrkräften der SeS. Jahrgangs- und schulübergreifende Themen und Initiativen.
+-   **Secondary School Coordinator** | Themen in Bezug auf die Betreuung der Schülerschaft in Zusammenarbeit mit den Lehrkräften der SeS. Jahrgangs- und schulübergreifende Themen und Initiativen.
 
 ## Verwaltung 
 
--   **[ISB Office Manager](/ISB-Eltern-wiki/de/Abteilung:Office "Abteilung:Office")** | Verwaltungsanfragen.
+-   **ISB Office Manager** | Verwaltungsanfragen.
 
--   **[Office](/ISB-Eltern-wiki/de/Abteilung:Office "Abteilung:Office")** | Abwesenheits- und Krankmeldungen von Schülern (nur über [Online-Formular](http://accadis.eu/student-absences)), Änderung von Adressdaten, Abholinformationen, Schulbescheinigungen, etc.
+-   **Office** | Abwesenheits- und Krankmeldungen von Schülern (nur über Online-Formular (http://accadis.eu/student-absences), Änderung von Adressdaten, Abholinformationen, Schulbescheinigungen, etc.
 
--   **[Finanzwesen](/ISB-Eltern-wiki/de/Abteilung:Finanzwesen "Abteilung:Finanzwesen") und [Personalwesen](/ISB-Eltern-wiki/de/Abteilung:Personalwesen "Abteilung:Personalwesen")** | Vertragswesen und Finanzen | _Bitte haben Sie Verständnis, dass Anfragen nach Eingang bearbeitet werden und nicht immer direkt am selben Tag beantwortet werden können._
+-   **Finanzwesen und Personalwesen** | Vertragswesen und Finanzen | _Bitte haben Sie Verständnis, dass Anfragen nach Eingang bearbeitet werden und nicht immer direkt am selben Tag beantwortet werden können._
 
--   **[Marketing und Admissions](/ISB-Eltern-wiki/de/Abteilung:Marketing_und_Admissions "Abteilung:Marketing und Admissions")** | Anfragen von interessierten Familien, Anregungen und Rückmeldungen rund um das Thema „Marketing“, Feriencamps, Nachmittagsaktivitäten, Open House und weitere Veranstaltungen.
+-   **Marketing und Admissions** | Anfragen von interessierten Familien, Anregungen und Rückmeldungen rund um das Thema „Marketing“, Feriencamps, Nachmittagsaktivitäten, Open House und weitere Veranstaltungen.
 
--   **[Schulbücherei](/ISB-Eltern-wiki/de/B%C3%BCcher,_Lehrmittel_und_B%C3%BCcherei "Bücher, Lehrmittel und Bücherei")** | Fragen, Anregungen und Rückmeldungen zur Schulbücherei.
+-   **Schulbücherei** | Fragen, Anregungen und Rückmeldungen zur Schulbücherei.
 
--   **[Schulcaterer FPS CATERING GmbH & Co KG](mailto:team-schulekita@fps-catering.de)** | Alles rund um das Thema „Mittagessen“.
+-   **Schulcaterer FPS CATERING GmbH & Co KG** | Alles rund um das Thema „Mittagessen“.
 
 ## Fragen und Anregungen 
 

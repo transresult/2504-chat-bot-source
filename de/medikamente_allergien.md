@@ -1,5 +1,5 @@
 ---
-title: 
+title: Medikamente und Allergien
 ---
 | Übersicht | |
 | --- | --- |
@@ -7,9 +7,9 @@ title:
 | Seite betrifft Elementary School | ja |
 | Seite betrifft Secondary School | ja |
 
-Falls Ihr Kind regelmäßig Medikamente einnehmen muss oder Allergien hat, muss dies in der Schülerakte dokumentiert sein und mit dem Erzieher bzw. [Klassenlehrer](/ISB-Eltern-wiki/de/Klassenleitung_und_Fachlehrer "Klassenleitung und Fachlehrer") besprochen werden.
+Falls Ihr Kind regelmäßig Medikamente einnehmen muss oder Allergien hat, muss dies in der Schülerakte dokumentiert sein und mit dem Erzieher bzw. Klassenleitung und Fachlehrer besprochen werden.
 
-Es gibt die Möglichkeit einen Lehrer zu beauftragen, einem Kind bei der Verabreichung von Medikamenten zu helfen, sofern sich der Lehrer hierzu bereit erklärt. Falls Sie einen Lehrer zur Verabreichung von Medikamenten ermächtigen möchten, füllen Sie bitte das Formular “Vereinbarung über die Durchführung von medizinischen Hilfsmaßnahmen” (im [Elternportal](/ISB-Eltern-wiki/de/Elternportal "Elternportal") verfügbar) aus und leiten es an den Konrektor (Administration) weiter.
+Es gibt die Möglichkeit einen Lehrer zu beauftragen, einem Kind bei der Verabreichung von Medikamenten zu helfen, sofern sich der Lehrer hierzu bereit erklärt. Falls Sie einen Lehrer zur Verabreichung von Medikamenten ermächtigen möchten, füllen Sie bitte das Formular “Vereinbarung über die Durchführung von medizinischen Hilfsmaßnahmen” (im Elternportal verfügbar) aus und leiten es an den Konrektor (Administration) weiter.
 
 ## Besondere Richtlinien in der Preschool 
 

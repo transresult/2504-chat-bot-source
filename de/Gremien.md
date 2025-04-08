@@ -1,5 +1,5 @@
 ---
-title: 
+title: Gremien
 ---
 | Übersicht | |
 | --- | --- |
@@ -11,11 +11,11 @@ Folgende Gremien unterstützen die accadis International School Bad Homburg und 
 
 ## Elternvertretung und Kassenwart in Preschool-Gruppen 
 
-Die Eltern einer accadis Preschool-Gruppe bilden die Gruppenelternschaft und wählen aus ihrer Mitte eine Elternvertretung und einen Kassenwart (Treasurer). Sie sollen in den ersten sechs Wochen des accadis Preschool-Jahres gewählt werden, normalerweise im Rahmen des [Gruppenelternabends](/ISB-Eltern-wiki/de/Elternabende,_Elterngespr%C3%A4che_und_Elternsprechtage "Elternabende, Elterngespräche und Elternsprechtage") (Back-to-School-Night). Die Elternvertretungen treffen sich einmal pro Schuljahr mit der Geschäfts- und Preschool-Leitung.
+Die Eltern einer accadis Preschool-Gruppe bilden die Gruppenelternschaft und wählen aus ihrer Mitte eine Elternvertretung und einen Kassenwart (Treasurer). Sie sollen in den ersten sechs Wochen des accadis Preschool-Jahres gewählt werden, normalerweise im Rahmen des Elternabende, Elterngespräche und Elternsprechtage (Back-to-School-Night). Die Elternvertretungen treffen sich einmal pro Schuljahr mit der Geschäfts- und Preschool-Leitung.
 
 ## Klassenelternschaft in der Elementary und Secondary School 
 
-Die Eltern einer Klasse bilden die Klassenelternschaft und wählen aus ihrer Mitte den Elternbeirat, den Stellvertreter sowie den Kassenwart. Sie sollen in den ersten sechs Wochen des Schuljahres gewählt werden, normalerweise im Rahmen des [Gruppenelternabends](/ISB-Eltern-wiki/de/Elternabende,_Elterngespr%C3%A4che_und_Elternsprechtage "Elternabende, Elterngespräche und Elternsprechtage") (Back-to-School-Night). Bei Bedarf ruft der [Klassenlehrer](/ISB-Eltern-wiki/de/Klassenleitung_und_Fachlehrer "Klassenleitung und Fachlehrer") weitere [Elternabende](/ISB-Eltern-wiki/de/Elternabende,_Elterngespr%C3%A4che_und_Elternsprechtage "Elternabende, Elterngespräche und Elternsprechtage") ein, zum Beispiel bei einer bevorstehenden Klassenfahrt.
+Die Eltern einer Klasse bilden die Klassenelternschaft und wählen aus ihrer Mitte den Elternbeirat, den Stellvertreter sowie den Kassenwart. Sie sollen in den ersten sechs Wochen des Schuljahres gewählt werden, normalerweise im Rahmen des Elternabende, Elterngespräche und Elternsprechtage (Back-to-School-Night). Bei Bedarf ruft der Klassenleitung und Fachlehrer weitere Elternabende, Elterngespräche und Elternsprechtage ein, zum Beispiel bei einer bevorstehenden Klassenfahrt.
 
 ## Schulelternbeirat der Elementary und Secondary School 
 
@@ -25,7 +25,7 @@ Die Klassenelternbeiräte bilden den Schulelternbeirat, aus dessen Mitte ein Vor
 
 Die Beiräte sollen das Interesse der Erziehungsberechtigten für die Arbeit der accadis ISB beleben und die Zusammenarbeit zwischen den Erziehungsberechtigten, den pädagogisch tätigen Mitarbeitern und der Leitung der accadis ISB fördern. Dazu gehören:
 
--   das Einbringen von Vorschlägen zur Gestaltung der Elternarbeit (z. B. regelmäßige [Elternabende](/ISB-Eltern-wiki/de/Elternabende,_Elterngespr%C3%A4che_und_Elternsprechtage "Elternabende, Elterngespräche und Elternsprechtage"), Elternstammtische etc.)
+-   das Einbringen von Vorschlägen zur Gestaltung der Elternarbeit (z. B. regelmäßige Elternabende, Elterngespräche und Elternsprechtage, Elternstammtische etc.)
 -   die Mithilfe bei der Planung und Durchführung von Festen, Basaren, Ausflügen etc.
 -   das Verständnis der Eltern für die Bildungs- und Erziehungsziele der accadis ISB zu wecken
 -   Wünsche, Anregungen und Vorschläge der Eltern entgegenzunehmen und der Leitung der accadis ISB zu unterbreiten

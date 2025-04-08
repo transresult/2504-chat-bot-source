@@ -1,5 +1,5 @@
 ---
-title: 
+title: Mitbringen von Gegenständen, Fundsachen und Haftung
 ---
 | Übersicht | |
 | --- | --- |
@@ -13,7 +13,7 @@ Aus Sicherheitsgründen sind auf dem Schulgelände außerhalb des Fußball- und 
 
 ## Handys 
 
-Die Handynutzung durch Schüler ist bei accadis ISB nicht gestattet. Falls Sie möchten, dass Ihr Kind für den Schulweg ein Mobiltelefon dabei hat, muss sichergestellt sein, dass es ausgeschaltet bleibt und keinesfalls in der Schule benutzt wird. Handys sind während des Schultages im [Schließfach](/ISB-Eltern-wiki/de/Schlie%C3%9Ff%C3%A4cher "Schließfächer") aufzubewahren. Dies gilt ebenso für andere technische Geräte wie Smart Watches, Tablets, Spielkonsolen etc. Bitte versuchen Sie nicht, Ihr Kind über das Handy zu erreichen oder Nachrichten zu hinterlassen, während es in der Schule ist.
+Die Handynutzung durch Schüler ist bei accadis ISB nicht gestattet. Falls Sie möchten, dass Ihr Kind für den Schulweg ein Mobiltelefon dabei hat, muss sichergestellt sein, dass es ausgeschaltet bleibt und keinesfalls in der Schule benutzt wird. Handys sind während des Schultages im Schließfach aufzubewahren. Dies gilt ebenso für andere technische Geräte wie Smart Watches, Tablets, Spielkonsolen etc. Bitte versuchen Sie nicht, Ihr Kind über das Handy zu erreichen oder Nachrichten zu hinterlassen, während es in der Schule ist.
 
 ## Fundsachen 
 
@@ -21,7 +21,7 @@ In Ihrem Interesse sollte das Eigentum Ihres Kindes (Sportsachen, Jacken, Haussc
 
 Brotdosen und Getränkeflaschen mit Lebensmittelresten werden jeden Freitagnachmittag entsorgt.
 
-Alle Gegenstände in der Lost + Found Box, die am letzten Schultag vor den Winterferien, Osterferien und Sommerferien nicht abgeholt wurden, werden während der folgenden [Ferien](/ISB-Eltern-wiki/de/Ferienzeiten,_Feiertage_und_Br%C3%BCckentage "Ferienzeiten, Feiertage und Brückentage") an Hilfsorganisationen gegeben oder entsorgt.
+Alle Gegenstände in der Lost + Found Box, die am letzten Schultag vor den Winterferien, Osterferien und Sommerferien nicht abgeholt wurden, werden während der folgenden Ferien an Hilfsorganisationen gegeben oder entsorgt.
 
 ## Haftung 
 
