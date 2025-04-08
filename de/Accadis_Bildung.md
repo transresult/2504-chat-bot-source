@@ -1,3 +1,7 @@
+---
+layout: default
+title: accadis bildung
+---
 | Übersicht | |
 | --- | --- |
 | Seite betrifft Preschool | ja |
