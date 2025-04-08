@@ -1,3 +1,6 @@
+---
+title: Curriculum
+---
 | Übersicht | |
 | --- | --- |
 | Seite betrifft Preschool | nein |

@@ -1,3 +1,6 @@
+---
+title: Disziplinarische Maßnahmen in der Elementary und Secondary School
+---
 | Übersicht | |
 | --- | --- |
 | Seite betrifft Preschool | nein |
@@ -10,7 +13,7 @@ Disziplinarmaßnahmen können wie folgt ergriffen werden. Sie sind in keiner bes
 
 -   Verbale Verwarnung
 -   Auszeit
--   Unterredung mit dem [Elementary School Coordinator](/ISB-Eltern-wiki/de/Funktion:Elementary_School_Coordinator "Funktion:Elementary School Coordinator") oder [Secondary School Coordinator](/ISB-Eltern-wiki/de/Funktion:Secondary_School_Coordinator "Funktion:Secondary School Coordinator")
+-   Unterredung mit dem Elementary School Coordinator oder Secondary School Coordinator
 -   Entzug von Privilegien
 -   Consequence Time
 -   Suspendierung für bis zu 5 Tagen

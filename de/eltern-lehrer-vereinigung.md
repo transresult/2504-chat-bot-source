@@ -1,3 +1,6 @@
+---
+title: Eltern-Lehrer-Vereinigung (PTA)
+---
 | Übersicht | |
 | --- | --- |
 | Seite betrifft Preschool | ja |
@@ -31,10 +34,10 @@ Die PTA wird durch jährliche Beiträge finanziert, die über die Klassenkassen 
 
 ### Kommunikationskanäle
 
-Um über die Aktivitäten der PTA informiert zu bleiben, wird den Eltern empfohlen, regelmäßig den PTA-Google Classroom zu verfolgen, wo Ankündigungen, Updates und Veranstaltungen veröffentlicht werden. Zusätzlich bietet die PTA WhatsApp Community einen informellen Kommunikationskanal und erfordert den Beitritt interessierter Eltern - [link](https://chat.whatsapp.com/JYdvo3nQdrK6XdauPIPKOP).
+Um über die Aktivitäten der PTA informiert zu bleiben, wird den Eltern empfohlen, regelmäßig den PTA-Google Classroom zu verfolgen, wo Ankündigungen, Updates und Veranstaltungen veröffentlicht werden. Zusätzlich bietet die PTA WhatsApp Community einen informellen Kommunikationskanal und erfordert den Beitritt interessierter Eltern - (https://chat.whatsapp.com/JYdvo3nQdrK6XdauPIPKOP).
 
 ### Machen Sie mit!
 
-Die PTA freut sich auf die Teilnahme und das Engagement der Eltern, um unsere Ziele zu erreichen. Ob Sie bei PTA-Veranstaltungen und Aktivitäten mithelfen oder neue Ideen einbringen können – Ihr Engagement ist stets willkommen. Bei Fragen oder wenn Sie mehr darüber erfahren möchten, wie Sie sich einbringen können, kontaktieren Sie uns gerne unter [pta@parents.accadis-isb.net](mailto:pta@parents.accadis-isb.net).
+Die PTA freut sich auf die Teilnahme und das Engagement der Eltern, um unsere Ziele zu erreichen. Ob Sie bei PTA-Veranstaltungen und Aktivitäten mithelfen oder neue Ideen einbringen können – Ihr Engagement ist stets willkommen. Bei Fragen oder wenn Sie mehr darüber erfahren möchten, wie Sie sich einbringen können, kontaktieren Sie uns gerne unter (pta@parents.accadis-isb.net).
 
 Gemeinsam machen wir die accadis ISB zu einer inspirierenden und lebendigen Gemeinschaft für unsere Kinder!
