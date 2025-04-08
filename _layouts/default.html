@@ -42,7 +42,7 @@
          {% for item in sorted %}
            {% if item.path != "index.md" and item.title %}
              <li>
-               <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
+               <a href="https://transresult.github.io/2504-chat-bot-source{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
                <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
              </li>
            {% endif %}
