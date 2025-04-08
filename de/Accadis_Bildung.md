@@ -1,6 +1,7 @@
 ---
 layout: default
 title: accadis bildung
+rank: 4
 ---
 | Übersicht | |
 | --- | --- |
