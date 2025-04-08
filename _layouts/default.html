@@ -49,8 +49,19 @@
          {% endfor %}
        </header>
        <section>
+       <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
  
        {{ content }}
+
+         {% assign sorted = site.html_pages | sort:"title" %}
+         {% for item in sorted %}
+           {% if item.path != "index.md" and item.title %}
+             <li>
+               <a href="https://transresult.github.io/2504-chat-bot-source/{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
+               <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
+             </li>
+           {% endif %}
+         {% endfor %}
  
        </section>
        <footer>
