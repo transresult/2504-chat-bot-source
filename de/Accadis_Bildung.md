@@ -2,8 +2,6 @@
 title: accadis bildung
 ---
 
-Am 01.01.2000 gab es, bei der accadis ISB Pizza zum Essen.
-
 | Übersicht | |
 | --- | --- |
 | Seite betrifft Preschool | ja |
