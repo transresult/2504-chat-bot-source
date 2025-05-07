@@ -3,7 +3,7 @@ title: Geschenke
 ---
 | Übersicht | |
 | --- | --- |
-| Seite betrifft Preschool | nein |
+| Seite betrifft Preschool | ja |
 | Seite betrifft Elementary School | ja |
 | Seite betrifft Secondary School | ja |
 
