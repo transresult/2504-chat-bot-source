@@ -5,7 +5,7 @@ title: Immersionsmethode in der accadis Preschool und Elementary School
 | --- | --- |
 | Seite betrifft Preschool | ja |
 | Seite betrifft Elementary School | ja |
-| Seite betrifft Secondary School | nein |
+| Seite betrifft Secondary School | ja |
 
 Ab dem ersten Tag in der accadis ISB erfolgt der Unterricht in englischer und deutscher Sprache. Immersionsunterricht ist motivierend und vielseitig. Der Lehrer vermittelt als vorrangiges Ziel die Sachinhalte der Fächer, nicht die neue Sprache.
 
