@@ -3,7 +3,7 @@ title: Materiallisten
 ---
 | Übersicht | |
 | --- | --- |
-| Seite betrifft Preschool | nein |
+| Seite betrifft Preschool | Ja |
 | Seite betrifft Elementary School | ja |
 | Seite betrifft Secondary School | ja |
 
