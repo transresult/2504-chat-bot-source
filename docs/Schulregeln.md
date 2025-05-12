@@ -7,18 +7,33 @@ title: Schulregeln
 | Seite betrifft Elementary School | ja |
 | Seite betrifft Secondary School | ja |
 
-Die accadis ISB Schulregeln basieren auf gegenseitigem Respekt. Wir behandeln einander ehrlich, fair, hilfsbereit, respektvoll und tolerant.
+# Schulregeln
 
-In allen Teilen der Schule, während des Unterrichts oder in der Pause werden die Schüler dazu aufgefordert:
+In allen Bereichen der Schule wird von den Schülerinnen und Schülern während des Unterrichts und in den Pausen erwartet, dass sie die folgenden Verhaltensweisen einhalten:
 
--   sich gegenüber Mitarbeitern und anderen Schülern freundlich und respektvoll zu verhalten
--   den Anweisungen der Lehrer oder anderer Mitarbeitern der Schule zu folgen
--   tolerant gegenüber den Eigenschaften und Meinungen anderer Menschen zu sein
--   individuelle Unterschiede wertzuschätzen
--   zu helfen, wenn jemand Unterstützung benötigt
--   das Eigentum der Schule mit Sorgfalt zu behandeln
--   nicht außerhalb der ausgewiesenen Bereiche zu essen, zu trinken oder Kaugummi zu kauen
--   in den Gängen und auf der Treppe ruhig zu gehen, wenn möglich auf der rechten Seite
--   anderen während des Schuhwechsels zu erlauben vorbeizugehen, indem man selbst nahe der Wand sitzt
+## Allgemeine Verhaltensregeln
 
-Wir dulden weder körperliche Gewalt, noch jegliche Form von Mobbing an unserer Schule. Schüler, die diese Regel missachten, müssen mit strengen Konsequenzen rechnen. Alle accadis ISB-Mitarbeiter sind angehalten, derartiges Verhalten sofort zu melden.
+- **Schuleigentum und das Eigentum anderer**: Behandle das Schuleigentum sowie das Eigentum von anderen Schülerinnen und Schülern sorgfältig.
+- **Gänge und Treppen**: Gehe in den Gängen und auf der Treppe immer rechts und möglichst leise.
+- **Rücksichtnahme**: Nimm Rücksicht auf andere und lasse sie vorbeigehen, insbesondere in der Nähe von Schließfächern.
+- **Essen und Trinken**: Esse und trinke nur in den dafür vorgesehenen Bereichen und vermeide es, Kaugummi zu kauen.
+- **Abfallentsorgung**: Entsorge Abfälle nur in den Mülleimern und gehe achtsam mit Lebensmitteln um.
+- **Schuluniform**: Trage jeden Tag die richtige Schuluniform.
+- **Befolgung der Anweisungen**: Folge den Anweisungen von Lehrkräften oder anderen Mitgliedern des Schulpersonals.
+
+## Verhaltensregeln im Unterricht
+
+Im Unterricht wird von dir erwartet, dass du:
+
+- **Wertschätzung**: Die Beiträge der anderen Schülerinnen und Schüler wertschätzt und respektierst.
+- **Aufgeschlossenheit**: Aufgeschlossen bist und neue Ideen und Perspektiven zulässt.
+- **Stolz auf die Arbeit**: Stolz auf deine Arbeit bist und Verantwortung für deine Leistungen übernimmst.
+- **Motivation**: Motiviert bist und immer dein Bestes geben möchtest.
+- **Produktivität**: Nach bestem Wissen und Gewissen arbeitest und dich bemühst, die Unterrichtszeit produktiv zu nutzen.
+- **Vermeidung von Störungen**: Den Unterricht nicht störst und keine anderen Schülerinnen und Schüler ablenkst.
+- **Pünktlichkeit und Vorbereitung**: Pünktlich und gut vorbereitet zum Unterricht erscheinst.
+- **Planernutzung**: Deinen Planer effektiv nutzt, um Aufgaben und Termine zu verwalten.
+- **Fristen einhalten**: Verantwortung übernimmst und Fristen einhältst, indem du Aufgaben pünktlich einreichst.
+- **Hausaufgaben**: Mit erledigten Hausaufgaben zum Unterricht kommst.
+- **Sprache**: Eine angemessene und respektvolle Sprache verwendest.
+- **Aktive Teilnahme**: Aktiv am Unterricht teilnimmst und freundlich zur Klasse bist.
