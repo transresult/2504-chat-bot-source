@@ -53,8 +53,6 @@ Eltern der Preschool übergeben ihr Kind entweder am kleinen Tor zum Preschool-S
 
 Schüler der Elementary und Secondary School gehen ebenfalls um das Gebäude herum (Bild 4) und betreten die Schule durch den Haupteingang.
 
-[![Erster Schulweg 1](/ISB-Eltern-wiki/de/images/7/7e/Erster_Schulweg_1_-_First_Way_to_School_1.png)](/ISB-Eltern-wiki/de/Datei:Erster_Schulweg_1_-_First_Way_to_School_1.png "Erster Schulweg 1") [![Erster Schulweg 2](/ISB-Eltern-wiki/de/images/b/b2/Erster_Schulweg_2_-_First_Way_to_School_2.png)](/ISB-Eltern-wiki/de/Datei:Erster_Schulweg_2_-_First_Way_to_School_2.png "Erster Schulweg 2") [![Erster Schulweg 3](/ISB-Eltern-wiki/de/images/9/9d/Erster_Schulweg_3_-_First_Way_to_School_3.png)](/ISB-Eltern-wiki/de/Datei:Erster_Schulweg_3_-_First_Way_to_School_3.png "Erster Schulweg 3") [![Erster Schulweg 4](/ISB-Eltern-wiki/de/images/0/05/Erster_Schulweg_4_-_First_Way_to_School_4.png)](/ISB-Eltern-wiki/de/Datei:Erster_Schulweg_4_-_First_Way_to_School_4.png "Erster Schulweg 4") [![Haupteingang ES + SeS](/ISB-Eltern-wiki/de/images/a/a7/Haupteingang_ES_SeS_-_Main_Entrance_ES_SeS.png)](/ISB-Eltern-wiki/de/Datei:Haupteingang_ES_SeS_-_Main_Entrance_ES_SeS.png "Haupteingang ES + SeS")
-
 ## Aus Richtung "Am Weidenring" 
 
 1.  Rechts abbiegen von “Am Weidenring” zum kleines Eingangstor des accadis ISB Gelände.
@@ -66,8 +64,6 @@ Eltern der Preschool übergeben ihr Kind entweder an der Glastür der jeweiligen
 
 Schüler der Elementary und Secondary School halten sich rechts und betreten die Schule durch den Haupteingang.
 
-[![Zweiter Schulweg 1](/ISB-Eltern-wiki/de/images/6/68/Zweiter_Schulweg_1_-_Second_Way_to_School_1.png)](/ISB-Eltern-wiki/de/Datei:Zweiter_Schulweg_1_-_Second_Way_to_School_1.png "Zweiter Schulweg 1") [![Zweiter Schulweg 2](/ISB-Eltern-wiki/de/images/4/4a/Zweiter_Schulweg_2_-_Second_Way_to_School_2.png)](/ISB-Eltern-wiki/de/Datei:Zweiter_Schulweg_2_-_Second_Way_to_School_2.png "Zweiter Schulweg 2") [![Zweiter Schulweg 3](/ISB-Eltern-wiki/de/images/4/4a/Zweiter_Schulweg_3_-_Second_Way_to_School_3.png)](/ISB-Eltern-wiki/de/Datei:Zweiter_Schulweg_3_-_Second_Way_to_School_3.png "Zweiter Schulweg 3") [![Zweiter Schulweg 4](/ISB-Eltern-wiki/de/images/7/7b/Zweiter_Schulweg_4_-_Second_Way_to_School_4.png)](/ISB-Eltern-wiki/de/Datei:Zweiter_Schulweg_4_-_Second_Way_to_School_4.png "Zweiter Schulweg 4") [![Haupteingang ES + SeS](/ISB-Eltern-wiki/de/images/a/a7/Haupteingang_ES_SeS_-_Main_Entrance_ES_SeS.png)](/ISB-Eltern-wiki/de/Datei:Haupteingang_ES_SeS_-_Main_Entrance_ES_SeS.png "Haupteingang ES + SeS")
-
 ## Anreise mit dem Auto und öffentlichen Verkehrsmitteln 
 
 ## Mit dem Auto 
@@ -76,12 +72,7 @@ Von der A661 kommend erreichen Sie uns über die Ausfahrt Bad Homburg Stadtmitte
 
 Die folgende Karte, welche freundlicherweise vom Road Safety Committee der PTA erstellt wurde, zeigt Parkmöglichkeiten in der näheren Umgebung der Schule auf. Wenn Sie nur wenige Gehminuten entfernt parken, vermeiden Sie stressige Warteschlangen, Bauverkehr und Staus entlang des Weidenrings. Und je weniger Verkehr an den Schultoren herrscht, desto sicherer ist es dort für die Schüler.
 
-[![Parkmöglichkeiten in der Nähe der Schule](/ISB-Eltern-wiki/de/images/1/1c/Parkmoeglichkeiten_-_Parking_options.PNG)](/ISB-Eltern-wiki/de/Datei:Parkmoeglichkeiten_-_Parking_options.PNG "Parkmöglichkeiten in der Nähe der Schule")
-
 ## Mit der Bahn 
-
-[![](/ISB-Eltern-wiki/de/images/thumb/8/8e/Anreise_mit_U-Bahn_-_Travel_by_underground.jpg/300px-Anreise_mit_U-Bahn_-_Travel_by_underground.jpg)](/ISB-Eltern-wiki/de/Datei:Anreise_mit_U-Bahn_-_Travel_by_underground.jpg)
-
   
 Es gibt drei Möglichkeiten mit der Bahn zur accadis ISB zu gelangen.
 
@@ -92,8 +83,6 @@ Es gibt drei Möglichkeiten mit der Bahn zur accadis ISB zu gelangen.
 Für jede Option kann Ihr Kind den Fußgängerweg „Im Kirschgrund“ nutzen, um in wenigen Minuten zur Schule zu gelangen (siehe Wegbeschreibungen).
 
 ## Mit dem Bus 
-
-[![](/ISB-Eltern-wiki/de/images/thumb/8/89/Anreise_mit_Bus_-_Travel_by_bus.jpg/300px-Anreise_mit_Bus_-_Travel_by_bus.jpg)](/ISB-Eltern-wiki/de/Datei:Anreise_mit_Bus_-_Travel_by_bus.jpg)
 
 Es gibt eine Bushaltestelle in der unmittelbaren Umgebung der accadis ISB:
 
@@ -113,5 +102,3 @@ RMV-Service: 069 / 24 24 80 24
 ## Fahrradparkplatz 
 
 Bitte nutzen Sie für das Abstellen der Fahrräder oder Tretroller den dafür vorgesehenen Fahrradparkplatz rechts vom Besucherparkplatz.
-
-[![](/ISB-Eltern-wiki/de/images/thumb/c/c5/Fahrradparkplatz_-_Bicycle_area.jpg/300px-Fahrradparkplatz_-_Bicycle_area.jpg)](/ISB-Eltern-wiki/de/Datei:Fahrradparkplatz_-_Bicycle_area.jpg)
