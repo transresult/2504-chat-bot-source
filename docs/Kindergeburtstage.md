@@ -7,4 +7,17 @@ title: Kindergeburtstage
 | Seite betrifft Elementary School | ja |
 | Seite betrifft Secondary School | ja |
 
-Geburtstage sind für jedes Kind ein besonderer Anlass, und deshalb kann Ihr Kind gerne diesen Tag mit seiner Gruppe oder seinen Klassenkameraden teilen. Kleine Backwaren und Leckereien, oder gesunde Alternativen, können in der Gruppe oder Klasse verteilt werden. Bitte geben Sie keine ‚goody bags‘ für die anderen Kinder mit und verteilen Sie, oder Ihr Kind, auch keine Geburtstagseinladungen an der Schule, es sei denn, alle Kinder einer Klasse oder Gruppe sind eingeladen.
+# Geburtstagsfeiern in der Schule
+
+Der Geburtstag ist ein besonderer Tag, und es wird sich gefreut, diesen gemeinsam zu feiern. Es gibt die Möglichkeit, den Geburtstag zusammen mit der Klasse zu würdigen, unter Beachtung einiger Regeln.
+
+## Geburtstagsregeln
+
+- Ein Kuchen darf für die Klassenkameradinnen und -kameraden mitgebracht werden.
+- Der Kuchen wird in der Cafeteria gemeinsam gegessen.
+
+### Wichtige Hinweise:
+
+- Der Kuchen muss vorgeschnitten sein.
+- Der Kuchen muss nussfrei sein (aus Rücksicht auf Allergien).
+- Süßigkeitentüten dürfen nicht verteilt werden.
