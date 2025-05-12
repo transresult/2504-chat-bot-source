@@ -19,7 +19,7 @@ Wir freuen uns, dass Sie sich für unsere Bildungseinrichtung entschieden haben 
 
 Herzliche Grüße
 
-Janina Sparks  
+Maximilian Müllerleile
 Head of School
 
 _Aus Gründen der einfacheren Lesbarkeit wird in diesem Wiki auf die geschlechtliche Differenzierung verzichtet. Entsprechende Begriffe gelten jedoch im Sinne der Gleichbehandlung für alle Geschlechter._
