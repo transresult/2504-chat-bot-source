@@ -37,3 +37,37 @@ Im Unterricht wird von dir erwartet, dass du:
 - **Hausaufgaben**: Mit erledigten Hausaufgaben zum Unterricht kommst.
 - **Sprache**: Eine angemessene und respektvolle Sprache verwendest.
 - **Aktive Teilnahme**: Aktiv am Unterricht teilnimmst und freundlich zur Klasse bist.
+
+
+# Miteinander an der accadis ISB
+
+Unser Miteinander an der accadis ISB basiert auf Vertrauen und Respekt. Die Schulgemeinschaft handelt ehrlich, fair, hilfsbereit, respektvoll und tolerant.
+
+## Grundsätze und Verhaltensregeln
+
+- Alle Menschen werden mit Respekt und Höflichkeit behandelt.
+- Unterschiedliche Kulturen und Hintergründe an der Schule werden wertgeschätzt.
+- Die Meinungen anderer Menschen werden akzeptiert.
+- Ehrlichkeit und Vertrauenswürdigkeit stehen im Mittelpunkt.
+- Alle Handlungen haben Konsequenzen – dies sollte stets bewusst sein.
+- Die eigene Zeit und Fähigkeiten werden genutzt, um anderen zu helfen.
+- Es gilt, das Richtige zu tun – nicht das Einfache.
+- Herausforderungen, die zur persönlichen Entwicklung beitragen, werden angenommen.
+- Das Verhalten spiegelt den Stolz wider, Teil der accadis ISB zu sein.
+
+## Nulltoleranz bei Gewalt und Mobbing
+
+Körperliche Gewalt und jede Form von Mobbing werden an der Schule nicht geduldet. Verstöße werden unverzüglich der Leitung der Sekundarstufe gemeldet und haben strenge Konsequenzen.
+
+## Sprache und kulturelle Sensibilität
+
+Als internationale Schule steht accadis ISB für Vielfalt. Menschen dürfen unabhängig von ihrem Hintergrund nicht beleidigt werden. Es ist stets zu beachten, **wer zuhört** und **in welchem Kontext** etwas gesagt wird – Sprache wird in verschiedenen Kulturen unterschiedlich aufgefasst.
+
+Unangemessene, beleidigende oder blasphemische Sprache ist nicht erlaubt.
+
+### Mögliche Konsequenzen bei Regelverstößen:
+
+- Elterngespräche  
+- Nachsitzen  
+- Suspendierung  
+- Ausschluss von der Schule (in schweren Fällen)
