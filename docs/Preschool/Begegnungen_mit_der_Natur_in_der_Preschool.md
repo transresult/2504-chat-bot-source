@@ -1,5 +1,5 @@
 ---
-title: Begegnungen mit der Natur in der Preschool
+title: Begegnungen mit der Natur in der Bilingual Preschool
 ---
 | Übersicht | |
 | --- | --- |
