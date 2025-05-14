@@ -1,5 +1,5 @@
 ---
-title: Entwicklungsberichte
+title: Entwicklungsberichte und Kommunikation mit Eltern 
 ---
 | Übersicht | |
 | --- | --- |
@@ -7,6 +7,8 @@ title: Entwicklungsberichte
 | Seite betrifft Elementary School | nein |
 | Seite betrifft Secondary School | nein |
 
-## Entwicklungsberichte in der Preschool 
+## Entwicklungsberichte und Kommunikation mit Eltern in der Bilingual Preschool
 
-Um den persönlichen Entwicklungsprozess der Kinder für die Eltern transparent und sichtbar zu machen, führen wir in den Gruppen Portfolio-Ordner (strukturierte Bildungs- und Entwicklungsdokumentation) für jedes Kind. Anhand der Entwicklungsberichte erhalten die Eltern einmal im Jahr die Möglichkeit, an einem Elternsprechtag individuell mit den Erziehern zu sprechen. Am Ende des accadis ISB Preschool-Jahres erhalten Sie einen Entwicklungsbericht.
+Ein zentraler Bestandteil unserer pädagogischen Arbeit ist die transparente Begleitung und Dokumentation der kindlichen Entwicklung. Um die individuelle Entwicklung jedes Kindes für die Eltern nachvollziehbar und sichtbar zu gestalten, führen wir in den Gruppen Portfolio-Ordner. Diese dienen als umfassende Bildungs- und Entwicklungsdokumentation und begleiten die Kinder durch das gesamte Preschool-Jahr.
+Einmal jährlich erhalten die Eltern im Rahmen eines Elternsprechtags die Gelegenheit anhand des aktuellen Entwicklungsstands in den persönlichen Austausch mit den pädagogischen Fachkräften zu treten.
+Zum Abschluss des Preschool-Jahres erhalten die Eltern einen schriftlichen Entwicklungsbericht. Dieser fasst die wichtigsten Beobachtungen und Fortschritte der kindlichen Entwicklung zusammen. 
